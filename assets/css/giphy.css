@@ -1,0 +1,51 @@
+
+body{
+background-color: lemonchiffon;
+
+
+}
+#dog-button{
+
+margin-top:20px;
+margin-bottom:20px;
+
+}
+
+#addDiv{
+margin-top: 20px;
+background-color: #42e2f4;
+padding:50px;
+
+
+}
+
+#images{
+
+width:75px;
+height:75px;
+margin:5px;
+
+
+}
+
+#giphy-form{
+
+margin-top: 20px;
+
+
+}
+
+#title{
+font-family: 'Rozha One', serif;
+
+
+}
+
+.animal{
+
+
+font-family: 'Rozha One', serif;
+
+font-size: 20px;
+}
+
